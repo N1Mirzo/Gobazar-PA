@@ -1,3 +1,4 @@
 # Gobazar-PA
-Go
 *Welcome to GoBazarPa*
+
+# **Note: Nearly I will update the code**
