@@ -1,4 +1,4 @@
 # Gobazar-PA
-*Welcome to GoBazarPa*
+*Welcome to GoBazarPA Namely, GoBazar Post delivery Assisstant*
 
 # **Note: Nearly I will update the code**
