@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+<div class="container">
+    <center>
+        <div class="col-7 mt-5">
+            <img class="Search-Logo mt-5" src="{% static 'gapp/images/glogo.png' %}" alt="No Images Found">
+            <input class="form-control my-3" type="text" placeholder="Please input only order ID(s) here.">
+            <button class="btn btn-block btn-primary" type="submit">Search the order ID of the products</button>
+        </div>
+    </center>
+</div>
+<style>
+.Search-Logo {
+    width: 100%;
+}
+</style>
+{% endblock %}
